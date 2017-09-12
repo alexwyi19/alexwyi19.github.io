@@ -13,17 +13,15 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Alexander Yi
+tagline: Student at University of Southern California
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: alexanwy@usc.edu
+phone: 949 235 0222
+linkedin: alexander-yi-708972106
+github: alexwyi19
 
 
 # Tracker
